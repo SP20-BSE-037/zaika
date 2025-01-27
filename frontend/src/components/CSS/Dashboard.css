@@ -1,0 +1,93 @@
+.icons{
+color: red;
+}
+.nav{
+background-color:#DBFF33;
+height: 50px;
+line-height: 50px;
+border-radius: 15px 15px;
+
+}
+.nav-item {
+    color: #000;
+    text-decoration: none;
+    margin-left: 5%;
+}
+.nav-item :hover {
+    color: #e22d2d;
+    text-decoration: none;
+}
+#fb{
+    width: 85%;
+    margin-left: 7.5%;
+    margin-top: -5%;
+}
+
+
+.tt{
+    margin-left: 49%;
+    width: 60%;
+}
+.feedbackUsers{
+    margin-top: -72%;
+    margin-left: 19%;
+    width: 70%;
+}
+#recp{
+    margin-top: -70%;
+    margin-left: 19%;
+    width: 80%;
+}
+.Formrecp{
+    margin-left: 40%;
+    margin-top: -65%;
+    width: 60%;
+
+}
+.prof{
+    margin-top: -73%;
+    width: 60%;
+}
+.tte{
+    margin-top: -69%;
+    width: 60%;
+}
+.Sucessmsg{
+    margin-top: -60%;
+    width: 60%;
+    margin-left: 20%;
+}
+
+.btt a{
+    color: rgb(0, 0, 0);
+    border: none;
+    text-decoration: none;
+
+}
+.btt :hover{
+    color: rgb(255, 255, 255);
+text-decoration: none;
+
+}
+
+.sett{
+    margin-top: -73%;
+    width: 80%;
+    margin-left:20% ;
+}
+
+  .designCal{
+    padding: 3%;
+  }
+  .ddd{
+    font: 1em sans-serif;
+  }
+#ingred{
+    width: 80%;
+margin-left: 18%; 
+}
+.ingred{
+    margin-top: -88%;
+    font-size: small;
+
+}
